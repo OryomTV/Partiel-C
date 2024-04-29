@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\tvanlaecke\Desktop\Partiel\Partiel\main.c(38,14): warning C4013: 'rand' non défini(e) ; extern retournant int pris par défaut
+C:\Users\tvanlaecke\Desktop\Partiel\Partiel\main.c(130,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+  Partiel.vcxproj -> C:\Users\tvanlaecke\Desktop\Partiel\x64\Debug\Partiel.exe
